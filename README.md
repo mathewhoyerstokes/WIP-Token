@@ -11,3 +11,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 <h1>Project tasks</h1>
+
+- I have create a token called WIP
+- I have created a smart contract to allow my address to mint 1.000.000 WIP
+- hooked up the App frontend.
+- im also able to send WIP.
+- using React and states to control certain content based on being signed in, owning WIP and sending WIP
